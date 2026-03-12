@@ -2,7 +2,7 @@
 
 <img align="right" alt="Girl working on multiple devices" width="400" src="https://i.pinimg.com/originals/6f/1f/49/6f1f49d2a6dcebe0d9b61e88ac5545f1.gif" />
 
-## 🚀 Software Engineering Graduate | Freelance Full-Stack Developer
+## Software Engineering Graduate | Freelance Full-Stack Developer
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
