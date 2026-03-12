@@ -1,6 +1,6 @@
 # Hi there, I'm Yenuli ! 👩‍💻
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1771743/screenshots/6895***/media/23c26733ec5c5fb41d0d362210323a73.gif" />
+<img align="right" alt="Girl working on multiple devices" width="400" src="https://i.pinimg.com/originals/6f/1f/49/6f1f49d2a6dcebe0d9b61e88ac5545f1.gif" />
 
 ## Software Engineering Graduate | Freelance Full-Stack Developer
 
