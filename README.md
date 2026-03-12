@@ -1,4 +1,4 @@
-# Hi there, I'm Yenul 👩‍💻
+# Hi there, I'm Yenuli !!
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -23,35 +23,18 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 ---
 
 ### 🔭 I'm currently working on
-- 🚀 Exciting freelance projects for international clients
-- 📱 Building a **women's wellness app** using React Native
-- 💻 Contributing to open-source projects focused on women in tech
+- 🚀 Exciting freelance projects for clients in Sri Lanka
+- 💻 Contributing to open-source projects
 
 ### 🌱 I'm currently learning
 - **TypeScript** for safer code
 - **Next.js** for server-side rendering
 - **Figma** for better UI/UX design
-- **AWS** for cloud deployment
+- **AWS/Azure** for cloud deployment
 
-### 🎯 My Goals for 2024
-- ✅ Land 10+ successful freelance projects
-- ✅ Launch my own tech blog
-- ✅ Speak at a local tech meetup
-- ✅ Contribute to 5 open-source projects
 
 ---
 
-## ✨ Featured Projects
-
-Here are some of my best works that showcase my skills:
-
-| Project | Tech Stack | Highlights | Demo |
-|---------|------------|------------|------|
-| [**E-Commerce Platform**](link-to-repo) | MERN Stack | JWT auth, Stripe payment, Admin dashboard | [🔗 Live Demo](link) |
-| [**Task Management App**](link-to-repo) | Django + React | Real-time updates, Team collaboration | [🔗 Live Demo](link) |
-| [**Fitness Tracker**](link-to-repo) | React Native | Cross-platform, HealthKit integration | [🔗 Live Demo](link) |
-| [**Inventory System**](link-to-repo) | .NET MAUI | Desktop app, Barcode scanning | [🔗 Live Demo](link) |
-| [**Portfolio Website**](link-to-repo) | React + Framer | Animated UI, Responsive design | [🔗 Live Demo](link) |
 
 ---
 
