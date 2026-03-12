@@ -49,7 +49,7 @@
 | ⚙️ **Backend Architecture** | Node.js, Java, Express, Laravel |
 | 🗄️ **Database Management** | MongoDB, MySQL, Firebase |
 | 🎨 **Frontend Development** | React, HTML5, CSS3, JavaScript |
-| 🖥️ **Desktop Development** | .NET MAUI (Cross-platform Windows/macOS apps) |
+| 🖥️ **Desktop Development** | .NET MAUI (Cross-platform aplications) |
 
 ---
 
