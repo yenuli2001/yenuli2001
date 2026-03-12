@@ -18,17 +18,20 @@
 ## 📌 Quick Links
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yenuli-sirisena-024504281/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" />
+  <a href="https://www.linkedin.com/in/yenuli-sirisena-024504281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yenuli2001">
-    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://spec-craft-website.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SpecCraft-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="SpecCraft" />
   </a>
-  <a href="https://drive.google.com/file/d/1gC6DfqAaUn6bPUaCJE8ZqmKb0NHHRUEc/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_My_Resume-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=FF69B4" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1gC6DfqAaUn6bPUaCJE8ZqmKb0NHHRUEc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-  <a href="mailto:yenuli.sirisena@yahoo.com">
-    <img src="https://img.shields.io/badge/Email_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yenuli.sirisena@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
