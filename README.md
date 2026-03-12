@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
-I'm a passionate Software Engineering graduate from **SLIIT** who loves building innovative web and mobile solutions. Currently thriving as a freelance developer, I transform ideas into reality using modern technologies.
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yenuli2001&label=🔥%20Profile%20Views&color=ff69b4&style=flat" alt="profile views" /> 
