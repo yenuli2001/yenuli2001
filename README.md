@@ -54,7 +54,7 @@
 ---
 
 ### 🔭 I'm currently working on
-- 🚀 Exciting freelance projects for clients in Sri Lanka
+- 🚀 Exciting projects for clients in Sri Lanka
 - 💻 Contributing to open-source projects
 
 ---
