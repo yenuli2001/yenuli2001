@@ -134,15 +134,4 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 
 ---
 
-## 🎯 Live Activity & Contributions
 
-<div align="center">
-  
-  ### 🔥 This Week's Development 🔥
-  
-</div>
-
-<!--START_SECTION:waka-->
-<!-- This will auto-update with your coding stats if you set up WakaTime -->
-```text
-This week I spent my time on:
