@@ -1,6 +1,6 @@
 #  Hi there!!, I'm Yenuli Sirisena 👋🏽
 
-<img align="right" alt="Girl working on multiple devices" width="400" src="https://i.pinimg.com/originals/6f/1f/49/6f1f49d2a6dcebe0d9b61e88ac5545f1.gif" />
+<img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## Software Engineer | Freelance Full-Stack Developer
 
