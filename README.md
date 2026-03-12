@@ -29,7 +29,7 @@
   <a href="https://drive.google.com/file/d/1gC6DfqAaUn6bPUaCJE8ZqmKb0NHHRUEc/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄_My_Resume-FF69B4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=FF69B4" />
   </a>
-  <a href="mailto:yenuli2001@gmail.com">
+  <a href="mailto:yenuli.sirisena@yahoo.com">
     <img src="https://img.shields.io/badge/Email_Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" />
   </a>
 </p>
