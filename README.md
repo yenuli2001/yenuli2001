@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1771743/screenshots/6895***/media/23c26733ec5c5fb41d0d362210323a73.gif" />
 
-## 🎓 Software Engineering Graduate | Freelance Full-Stack Developer
+## Software Engineering Graduate | Freelance Full-Stack Developer
 
 I'm a passionate Software Engineering graduate from **SLIIT** who loves building innovative web and mobile solutions. Currently thriving as a freelance developer, I transform ideas into reality using modern technologies.
 
