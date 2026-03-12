@@ -1,12 +1,17 @@
 # Hi there, I'm Yenul 👩‍💻
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb8770653307db42368e3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🎓 Software Engineering Graduate | Freelance Full-Stack Developer
 
 I'm a passionate Software Engineering graduate from **SLIIT** who loves building innovative web and mobile solutions. Currently thriving as a freelance developer, I transform ideas into reality using modern technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yenuli2001&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" /> </p>
+
+---
+
 ### 💼 What I Do
+
 | Area | Technologies |
 |------|--------------|
 | 🌐 **Full-Stack Web Development** | MERN Stack, Django, React, Node.js |
@@ -42,11 +47,11 @@ Here are some of my best works that showcase my skills:
 
 | Project | Tech Stack | Highlights | Demo |
 |---------|------------|------------|------|
-| **E-Commerce Platform** | MERN Stack | JWT auth, Stripe payment, Admin dashboard | [Live Demo]() |
-| **Task Management App** | Django + React | Real-time updates, Team collaboration | [Live Demo]() |
-| **Fitness Tracker** | React Native | Cross-platform, HealthKit integration | [Live Demo]() |
-| **Inventory System** | .NET MAUI | Desktop app, Barcode scanning | [Live Demo]() |
-| **Portfolio Website** | React + Framer | Animated UI, Responsive design | [Live Demo]() |
+| [**E-Commerce Platform**](link-to-repo) | MERN Stack | JWT auth, Stripe payment, Admin dashboard | [🔗 Live Demo](link) |
+| [**Task Management App**](link-to-repo) | Django + React | Real-time updates, Team collaboration | [🔗 Live Demo](link) |
+| [**Fitness Tracker**](link-to-repo) | React Native | Cross-platform, HealthKit integration | [🔗 Live Demo](link) |
+| [**Inventory System**](link-to-repo) | .NET MAUI | Desktop app, Barcode scanning | [🔗 Live Demo](link) |
+| [**Portfolio Website**](link-to-repo) | React + Framer | Animated UI, Responsive design | [🔗 Live Demo](link) |
 
 ---
 
@@ -70,7 +75,7 @@ Here are some of my best works that showcase my skills:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET MAUI](https://img.shields.io/b/-.NET_MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -89,12 +94,16 @@ Here are some of my best works that showcase my skills:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YENUL-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YENUL-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yenuli2001&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yenuli2001&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YENUL-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenuli2001&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yenuli2001&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -102,19 +111,19 @@ Here are some of my best works that showcase my skills:
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yenul-profile">
+  <a href="https://linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yenul_tweets">
+  <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:yenul.your-email@gmail.com">
+  <a href="mailto:yenuli2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yenul-portfolio.com">
+  <a href="https://yenuli-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/YENUL-GITHUB-USERNAME">
+  <a href="https://github.com/yenuli2001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -125,12 +134,12 @@ Here are some of my best works that showcase my skills:
 
 <p align="center">
   <a href="https://drive.google.com/your-resume-link">
-    <img src="https://img.shields.io/badge/Download_My_Resume-📄-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download_Resume-📄-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/yenul">
+  <a href="https://www.upwork.com/freelancers/your-profile">
     <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/yenul">
+  <a href="https://www.fiverr.com/your-profile">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
@@ -147,5 +156,7 @@ const yenul = {
   freelance: true,
   languages: ["Sinhala", "English"],
   hobbies: ["Reading", "Traveling", "Photography", "Coding"],
-  funFact: "I debug my life with coffee and music 🎵"
+  funFact: "I debug my life with coffee and music 🎵",
+  currentFocus: "Building amazing apps for clients worldwide",
+  motto: "Code with passion, debug with patience"
 };
