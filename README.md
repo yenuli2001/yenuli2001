@@ -50,8 +50,6 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -94,17 +92,8 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yenuli-sirisena-024504281/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:yenuli2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yenuli-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/yenuli2001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -116,30 +105,10 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 ## 📄 Resume & Work
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link">
+  <a href="[https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1gC6DfqAaUn6bPUaCJE8ZqmKb0NHHRUEc/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Download_Resume-📄-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/your-profile">
-    <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/your-profile">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💖 A Little More About Me
-
-```javascript
-const yenul = {
-  pronouns: "she" | "her",
-  location: "Sri Lanka 🇱🇰",
-  education: "BSc in Software Engineering @ SLIIT",
-  freelance: true,
-  languages: ["Sinhala", "English"],
-  hobbies: ["Reading", "Traveling", "Photography", "Coding"],
-  funFact: "I debug my life with coffee and music 🎵",
-  currentFocus: "Building amazing apps for clients worldwide",
-  motto: "Code with passion, debug with patience"
-};
