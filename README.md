@@ -41,27 +41,18 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 | Area | Technologies |
 |------|--------------|
 | 🌐 **Full-Stack Web Development** | MERN Stack, Django, React, Node.js, PHP/Laravel |
-| 📱 **Mobile App Development** | React Native, **.NET MAUI** |
+| 📱 **Mobile App Development** | React Native, .NET MAUI |
 | ⚙️ **Backend Architecture** | Node.js, Java, Express, Laravel |
 | 🗄️ **Database Management** | MongoDB, MySQL, Firebase |
 | 🎨 **Frontend Development** | React, HTML5, CSS3, JavaScript |
-| 🖥️ **Desktop Development** | **.NET MAUI** (Cross-platform Windows/macOS apps) |
+| 🖥️ **Desktop Development** | .NET MAUI (Cross-platform Windows/macOS apps) |
 
 ---
 
 ### 🔭 I'm currently working on
 - 🚀 Exciting freelance projects for clients in Sri Lanka
 - 💻 Contributing to open-source projects
-- 🛒 Building an e-commerce platform with **Laravel**
-- 📱 Creating a cross-platform inventory app with **.NET MAUI**
-
-### 🌱 I'm currently learning
-- **TypeScript** for safer code
-- **Next.js** for server-side rendering
-- **Figma** for better UI/UX design
-- **AWS/Azure** for cloud deployment
-- **.NET MAUI** advanced features for desktop apps
-
+- 
 ---
 
 ## 🛠️ Technologies & Tools
@@ -85,7 +76,6 @@ I'm a passionate Software Engineering graduate from **SLIIT** who loves building
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
