@@ -1,11 +1,14 @@
-#  Hi there!!, I'm Yenuli Sirisena 👋🏽
+# ✨ Hi there!!, I'm Yenuli Sirisena 👋🏽
 
 <img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-## Software Engineer | Freelance Full-Stack Developer
+### 👩‍💻 Software Engineer | Freelance Full-Stack Developer
+
+<br>
+<br>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <p align="left"> 
@@ -59,8 +62,6 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  
-  
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
