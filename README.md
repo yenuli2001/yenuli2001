@@ -1,19 +1,25 @@
 # ✨ Hi there!!, I'm Yenuli Sirisena 👋🏽
 
-<img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-### 👩‍💻 Software Engineer | Freelance Full-Stack Developer
+<div align="center">
+  <img alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</div>
 
 <br>
+
+## 👩‍💻 Software Engineer | Freelance Full-Stack Developer
+
 <br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+awesome+web+%26+mobile+apps;MERN+%7C+Django+%7C+Laravel+%7C+.NET+MAUI;React+Native+%7C+React+%7C+Node.js;5%2B+freelance+projects+delivered;Open+for+collaboration+%F0%9F%92%AA" alt="Typing SVG" />
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yenuli2001&label=🔥%20Profile%20Views&color=ff69b4&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/yenuli2001?label=Followers&style=social" alt="followers" />
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yenuli2001&label=🔥%20PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" alt="profile views" /> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/yenuli2001?label=FOLLOWERS&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ---
