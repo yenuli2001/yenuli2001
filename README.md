@@ -53,9 +53,10 @@
 
 ---
 
-### 🔭 I'm currently working on
-- 🚀 Exciting projects for clients in Sri Lanka
-- 💻 Contributing to open-source projects
+### 🔭 I'm currently...
+- 🚀 Building full-stack web & mobile apps for Sri Lankan clients
+- 👯 Looking to collaborate on open-source projects for beginners
+
 
 ---
 
