@@ -113,6 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenuli2001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yenuli2001&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
