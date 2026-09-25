@@ -112,6 +112,21 @@
 
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yenuli2001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" /> </p>
 
+
+<div align="center">
+
+  ### 🐍 Contribution Snake
+
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yenuli2001/yenuli2001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yenuli2001/yenuli2001/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/yenuli2001/yenuli2001/output/github-snake.svg" />
+  </picture>
+</p>
+
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yenuli2001&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p> -->
