@@ -100,30 +100,21 @@
 
 <div align="center">
 
-### 📈 Live Stats 📈
+### 📈 GitHub Stats 📈
+
+<img
+  src="https://streak-stats.demolab.com/?user=yenuli2001&theme=radical&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenuli2001&layout=compact&theme=radical&hide_border=true"
+  alt="Top Languages"
+/>
 
 </div>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yenuli2001&show_icons=true&theme=radical&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=yenuli2001&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenuli2001&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    width="40%"
-  />
-</p>
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yenuli2001&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p> -->
